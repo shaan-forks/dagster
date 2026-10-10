@@ -9,7 +9,7 @@ description = "Dagster is an orchestration platform for the development, product
 authors = [{name = "Dagster Labs", email = "hello@dagsterlabs.com"}]
 license = "Apache-2.0"
 readme = "README.md"
-requires-python = ">=3.10,<3.15"
+requires-python = ">=3.10,<3.16"
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Environment :: Console",
